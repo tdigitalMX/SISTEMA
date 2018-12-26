@@ -1,6 +1,6 @@
 ## SISTEMA NASALUD
 
-Desarrollo sistema nasalud V1.0
+Desarrollo sistema nasalud
 
 ### License
 
